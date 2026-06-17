@@ -1,7 +1,9 @@
 # Netflix Clone - By KingRosa 
 
-> [!NOTE]
+> [!DISCLAIMER]
 > This project is a feature-rich movie streaming interface built to demonstrate proficiency in modern front-end development, state management, and real-time database integration.
+>  This project is 100% inspired by Netflix. It was developed for educational purposes to demonstrate front-end development, API integration, and Firebase authentication skills. I do not own any of the movie data or UI assets.
+
 
 ## 🚀 Live Demo
 Check out the live application: [**Netflix Clone**]([https://netflix-clone-kingrosa-m69wexrst-kingrosas-projects.vercel.app/])
